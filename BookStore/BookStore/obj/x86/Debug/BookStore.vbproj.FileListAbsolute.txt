@@ -1,0 +1,22 @@
+T:\Dr Kiang\BookStore\BookStore\bin\Debug\BookStore.exe
+T:\Dr Kiang\BookStore\BookStore\bin\Debug\BookStore.pdb
+T:\Dr Kiang\BookStore\BookStore\bin\Debug\BookStore.xml
+T:\Dr Kiang\BookStore\BookStore\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\Dr Kiang\BookStore\BookStore\obj\x86\Debug\BookStore.Form1.resources
+T:\Dr Kiang\BookStore\BookStore\obj\x86\Debug\BookStore.Resources.resources
+T:\Dr Kiang\BookStore\BookStore\obj\x86\Debug\GenerateResource.read.1.tlog
+T:\Dr Kiang\BookStore\BookStore\obj\x86\Debug\GenerateResource.write.1.tlog
+T:\Dr Kiang\BookStore\BookStore\obj\x86\Debug\BookStore.exe
+T:\Dr Kiang\BookStore\BookStore\obj\x86\Debug\BookStore.xml
+T:\Dr Kiang\BookStore\BookStore\obj\x86\Debug\BookStore.pdb
+C:\Users\cbait-oal\Documents\visual studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.exe
+C:\Users\cbait-oal\Documents\visual studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.xml
+C:\Users\cbait-oal\Documents\visual studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.pdb
+C:\Users\cbait-oal\Documents\visual studio 2010\Projects\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\cbait-oal\Documents\visual studio 2010\Projects\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\cbait-oal\Documents\visual studio 2010\Projects\BookStore\BookStore\bin\Debug\BookStore.xml
+C:\Users\cbait-oal\Documents\visual studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbait-oal\Documents\visual studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.Form1.resources
+C:\Users\cbait-oal\Documents\visual studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.Resources.resources
+C:\Users\cbait-oal\Documents\visual studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cbait-oal\Documents\visual studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\GenerateResource.write.1.tlog
